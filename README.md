@@ -55,4 +55,7 @@ Next, we train, and evaluate the model using the test data.
 
 ![image](https://user-images.githubusercontent.com/85843030/139088616-65836c02-84aa-4514-b63d-44acbe2a78bb.png)
 
-
+### 4.2 Analysis-Deliverable 3
+For this deliverable, the aim is to try and achieve a target predictive accuracy higher than 75%. 
+Several attempts are made to increase the accuracy by:
+1. OPT1: 
