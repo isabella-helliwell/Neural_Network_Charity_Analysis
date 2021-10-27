@@ -24,11 +24,16 @@ Python
 9. Split the preprocessed data into features and target arrays
 10. Split the data into a training and testing dataset
 11. Create a StandarScaler instance
+
 ### 3.2 Deliverable 2
+
 <ins> Compile, Train and Evaluate the Model</ins>
 12. Define the number of input features and hidden nodes for each layer
 13. Add activation function `relu` to the hidden node layers
 14. Add activation function `sigmoid` to the output layer
 15. Check the structure of the model
+16. Add checkpoint that saves the model's weight every 5 epochs
+17. Model's loss and accuracy is printed
+18. Save the results to an HD5 file
 
 
