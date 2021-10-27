@@ -13,6 +13,7 @@ Python
 ## 3. Coding summary
 ### 3.1 Deliverable 1
 <ins>Preprocessing the data obtained from 'charity_data.csv'</ins>
+
 1. Import the dependencies, and read in the dataset as a DataFrame
 2. Clean the data set
 3. Check the unique values
