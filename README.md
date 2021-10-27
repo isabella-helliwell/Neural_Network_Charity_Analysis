@@ -59,6 +59,10 @@ Next, we train, and evaluate the model using the test data.
 For this deliverable, the aim is to try and achieve a target predictive accuracy higher than 75%. 
 Several attempts are made to increase the accuracy and these are summarized below:
 1. <ins>OPT1: Drop more columns:</ins> 'STATUS', 'ORGANIZATION', 'USE_CASE', 'SPECIAL CONSIDERATIONS' & 'AFFILIATION' columns dropped.
+Everything else is unchanged.
+
+![image](https://user-images.githubusercontent.com/85843030/139145032-aa8b1ed8-c20d-4fc7-b54e-d354b611ed6d.png)
+
 
 ![image](https://user-images.githubusercontent.com/85843030/139144340-09b7b49d-17c0-42db-b741-4e107883395a.png)
 
