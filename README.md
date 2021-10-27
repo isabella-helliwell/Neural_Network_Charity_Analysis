@@ -66,5 +66,9 @@ Everything else is unchanged.
 
 ![image](https://user-images.githubusercontent.com/85843030/139144340-09b7b49d-17c0-42db-b741-4e107883395a.png)
 
+2. <ins><b>OPT1: Add 1 more hidden layer:</ins></b> 
+
+
+![image](https://user-images.githubusercontent.com/85843030/139146044-2320fa42-8f59-477e-a4db-9bd559525ec0.png)
 
 
