@@ -51,7 +51,8 @@ The structure of the model is shown here:
 Next, we use some optimization functions, to shape and mold the neural network model while it is being trained. For this we use
 `adam optimizer`, `binary_crossentropy` loss function, and we also want to measure the quality of the model, which we can do by using
 model predictive accuracy `accuracy`.
+Next, we train, and evaluate the model using the test data.
 
-
+![image](https://user-images.githubusercontent.com/85843030/139088616-65836c02-84aa-4514-b63d-44acbe2a78bb.png)
 
 
