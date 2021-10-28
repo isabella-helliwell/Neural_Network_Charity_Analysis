@@ -95,5 +95,12 @@ Everything else is unchanged.
 ![image](https://user-images.githubusercontent.com/85843030/139279883-c50f1e7d-8e3b-412a-adba-596091b20cbe.png)
 
 
+## Summary
+
+A summary of all 5 models are shown below. The plots show the accuracy and loss vs iterations.
+
+![overview](https://user-images.githubusercontent.com/85843030/139285327-9569ccec-0e1e-4d95-be92-e185c1f2b051.png)
+
+
 
 
