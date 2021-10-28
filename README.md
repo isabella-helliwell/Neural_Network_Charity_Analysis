@@ -108,7 +108,9 @@ significantely at first and it stabilizes somewhat as the iterations increase. T
 
 ## Conclusion
 
-To achieve a 75% accuracy, several attempts have been made to optimize the accuracy of the model by manipulating data and codes. Looking at the 
-summary plot, we can see that using optimization 1, did not improve the accuracy at all, infact the outcome was worst of all the other plots.
-Looking at the remaining plots, the outcome was not significantly changed with respect to the optimizations made.
+To achieve a target predictive accuracy of 75%, several attempts have been made to optimize the  model accuracy by manipulating data and codes. Looking at the 
+summary plot, we can see that using optimization 1, did not improve the accuracy at all, infact the outcome was worst comparing to the other plots.
+Looking at the remaining plots, the outcome was not significantly changed with respect to the optimizations made. 
+Ideally we want the loss as close to 0 as possible and accuracy as close to 1 as possible. 
+In this instance, the model is only 73% accurate in predicting future funding  success.
 
