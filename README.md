@@ -6,9 +6,10 @@
 The aim of the project is to use Neural Network to analyse the dataset from Alphabet Soup, and to create a binary classification model that can predict if Alphabet Soup funded organization will be successful based on future dataset.
 
 ## 2. Resources
-- Jupyter Notebook
-- Python
-- Dataset:charity_data.csv 
+- Jupyter Notebook, version 6.3.0
+- Python, version 3.7.10
+- Input dataset:charity_data.csv
+- Image taken from https://appen.com/blog/what-are-neural-networks/ 
 
 
 ## 3. Coding summary
