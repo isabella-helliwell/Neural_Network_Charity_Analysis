@@ -98,6 +98,10 @@ Everything else is unchanged.
 ## Summary
 
 A summary of all 5 models are shown below. The plots show the accuracy and loss vs iterations.
+We can see that when we start running the model,the loss is great (shown in red). As the number of iterations (epochs) increase, the loss decreases
+significately at first few iterations, but than stabilizes towards the end of the iterations. This trend is true for all plots.
+For the accuracy plots(shown in green), it behaves opposite to the loss plot, meaning, as no of iterations increase, the accuracy level increases 
+significantely at first and it stabilizes somewhat as the iterations increase. This trend is valid for all plots.
 
 ![overview](https://user-images.githubusercontent.com/85843030/139285327-9569ccec-0e1e-4d95-be92-e185c1f2b051.png)
 
