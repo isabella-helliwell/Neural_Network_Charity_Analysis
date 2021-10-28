@@ -114,3 +114,5 @@ Looking at the remaining plots, the outcome was not significantly changed with r
 Ideally we want the loss as close to 0 as possible and accuracy as close to 1 as possible. 
 In this instance, the model is only 73% accurate in predicting potential future successful Alphabet Soup funded organizations.
 
+Since we only have tabular data, and the outcome did not change much after all the optimizations, we could try and use Scikit-Learn's `RandomForestClassifier` class
+to see if the model accuracy will change.
