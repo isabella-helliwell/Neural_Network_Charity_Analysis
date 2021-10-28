@@ -106,5 +106,9 @@ significantely at first and it stabilizes somewhat as the iterations increase. T
 ![overview](https://user-images.githubusercontent.com/85843030/139285327-9569ccec-0e1e-4d95-be92-e185c1f2b051.png)
 
 
+## Conclusion
 
+To achieve a 75% accuracy, several attempts have been made to optimize the accuracy of the model by manipulating data and codes. Looking at the 
+summary plot, we can see that using optimization 1, did not improve the accuracy at all, infact the outcome was worst of all the other plots.
+Looking at the remaining plots, the outcome was not significantly changed with respect to the optimizations made.
 
