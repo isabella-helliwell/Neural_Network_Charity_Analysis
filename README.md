@@ -74,7 +74,7 @@ Everything else is unchanged.
 ![image](https://user-images.githubusercontent.com/85843030/139146044-2320fa42-8f59-477e-a4db-9bd559525ec0.png)
 
 
-![image](https://user-images.githubusercontent.com/85843030/139147431-25b173cd-3934-4771-aa3e-f040bdfcc01f.png)
+![image](https://user-images.githubusercontent.com/85843030/139293140-44633dff-7a88-4813-bd29-591c5e113a5e.png)
 
 
 3. <ins><b>OPT3: increase the bin size, decrease no of bins:</ins></b> 
