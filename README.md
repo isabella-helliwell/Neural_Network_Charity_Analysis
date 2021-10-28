@@ -67,11 +67,19 @@ Everything else is unchanged.
 ![image](https://user-images.githubusercontent.com/85843030/139144340-09b7b49d-17c0-42db-b741-4e107883395a.png)
 
 
-2. <ins><b>OPT1: Add 1 more hidden layer, with 10 nodes:</ins></b> 
+2. <ins><b>OPT2: Add 1 more hidden layer, with 10 nodes:</ins></b> 
 
 
 ![image](https://user-images.githubusercontent.com/85843030/139146044-2320fa42-8f59-477e-a4db-9bd559525ec0.png)
 
 
 ![image](https://user-images.githubusercontent.com/85843030/139147431-25b173cd-3934-4771-aa3e-f040bdfcc01f.png)
+
+
+3. <ins><b>OPT3: increase the bin size, decrease no of bins:</ins></b> 
+
+
+![image](https://user-images.githubusercontent.com/85843030/139270685-c538e384-76a2-4755-b4df-153735354ef3.png)
+
+
 
