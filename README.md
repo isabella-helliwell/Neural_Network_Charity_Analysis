@@ -3,8 +3,7 @@
 
 
 ## 1. Project Overview
-The aim of the project is to use Neural Network to analyse the dataset from Alphabet Soup, for future decision making regarding funding approvals
-to various organizations.
+The aim of the project is to use Neural Network to analyse the dataset from Alphabet Soup, and to create a binary classification model that can predict if Alphabet Soup funded organization will be successful based on future dataset.
 
 ## 2. Resources
 - Jupyter Notebook
@@ -112,5 +111,5 @@ To achieve a target predictive accuracy of 75%, several attempts have been made 
 summary plot, we can see that using optimization 1, did not improve the accuracy at all, infact the outcome was worst comparing to the other plots.
 Looking at the remaining plots, the outcome was not significantly changed with respect to the optimizations made. 
 Ideally we want the loss as close to 0 as possible and accuracy as close to 1 as possible. 
-In this instance, the model is only 73% accurate in predicting future funding  success.
+In this instance, the model is only 73% accurate in predicting potential future successful Alphabet Soup funded organizations.
 
