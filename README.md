@@ -7,8 +7,10 @@ The aim of the project is to use Neural Network to analyse the dataset from Alph
 to various organizations.
 
 ## 2. Resources
-Jupyter Notebook
-Python
+- Jupyter Notebook
+- Python
+- Dataset:charity_data.csv 
+
 
 ## 3. Coding summary
 ### 3.1 Deliverable 1
@@ -83,4 +85,15 @@ Everything else is unchanged.
 
 
 ![image](https://user-images.githubusercontent.com/85843030/139277744-e7948639-3d70-48c3-9155-1dbdbf703ef8.png)
+
+
+4. <ins><b>OPT4: decrease the bin size, increase no of bins:</ins></b> 
+
+
+![image](https://user-images.githubusercontent.com/85843030/139279420-941eecbc-6797-41ae-ac17-9f45380112c8.png)
+
+![image](https://user-images.githubusercontent.com/85843030/139279883-c50f1e7d-8e3b-412a-adba-596091b20cbe.png)
+
+
+
 
